@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="LOCAL" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleHome" value="D:\Program Files\Android\Android Studio\gradle\gradle-2.14.1" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/JPushExample(532391)" />
+            <option value="$PROJECT_DIR$/animationdemo01" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/designdemo01" />
+            <option value="$PROJECT_DIR$/homework0201" />
+            <option value="$PROJECT_DIR$/jpushdemo" />
+            <option value="$PROJECT_DIR$/jpushdemo2" />
+            <option value="$PROJECT_DIR$/m'y'list'view'divider" />
+            <option value="$PROJECT_DIR$/mediaplayer" />
+            <option value="$PROJECT_DIR$/myscanbar" />
+            <option value="$PROJECT_DIR$/myscanbardemo" />
+            <option value="$PROJECT_DIR$/okhttpdemo" />
+            <option value="$PROJECT_DIR$/picassodemo" />
+            <option value="$PROJECT_DIR$/recyclerviewdemo2" />
+            <option value="$PROJECT_DIR$/recyclerviewpull" />
+            <option value="$PROJECT_DIR$/recycleviewwithtoolbar" />
+            <option value="$PROJECT_DIR$/sharedemo" />
+            <option value="$PROJECT_DIR$/xutilsdemo" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
